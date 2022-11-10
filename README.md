@@ -1,1 +1,1 @@
-# todo-app
+app for learning basics of Spring
